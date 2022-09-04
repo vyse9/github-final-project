@@ -1,6 +1,6 @@
  # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <Mohammad Sameer Hussain>
+   # <vyse9>
 
    # Input:
    # p, principal amount
